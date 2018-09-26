@@ -1,0 +1,25 @@
+
+<?xml-stylesheet type="text/css"  href="style.css"?>
+<class>
+	<student>
+		<usn>USN : 4VV15CS082</usn>
+		<name>Name : Rachana</name>
+		<college>College : VVCE</college>
+		<branch>Branch : CSE</branch>
+		<email>E-mail : rach.com</email>
+	</student>
+	<student>
+		<usn>USN : 4VV15CS078</usn>
+		<name>Name : Priyanka</name>
+		<college>College : VVCE</college>
+		<branch>Branch : CSE</branch>
+		<email>E-mail : priya.com</email>
+	</student>
+	<student>
+		<usn>USN : 4VV15CS089</usn>
+		<name>Name : Ranjana</name>
+		<college>College : VVCE</college>
+		<branch>Branch : CSE</branch>
+		<email>E-mail : ranj.com</email>
+	</student>
+</class>
